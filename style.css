@@ -1,0 +1,25 @@
+body{
+	background: #800000;
+}
+
+h1 {
+	color: black;
+}
+
+p {
+	font-family:"Open Sans", sans-serif;
+}
+img {
+	display: block;
+	height: 250px;
+	width: auto;
+}
+
+#title {
+	background :      ;
+	width: auto;
+	
+}
+#main p {
+	color: #ff3300;
+}
